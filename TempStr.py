@@ -8,3 +8,4 @@ for i in N:
     else:
         t=i
     print(t,end='')
+print('这是一份修改过的代码')
